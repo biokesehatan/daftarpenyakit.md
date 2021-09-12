@@ -1,0 +1,2 @@
+# daftarpenyakit.md
+kumpulan penyakit 
